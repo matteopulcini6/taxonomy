@@ -1,0 +1,26 @@
+task_description: >-
+  Develop a scientific experiment to investigate the effects of temperature on
+  the rate of plant growth.
+created_by: Matteo Pulcini
+seed_examples:
+  - answer: >
+      The hypothesis is that increasing temperature will increase the rate of
+      plant growth.
+    question: What is the hypothesis of the experiment?
+    context: >
+      A group of plants is subjected to different temperature conditions,
+      ranging from 20°C to 40°C, while other environmental factors such as
+      light, water, and soil composition are kept constant. The height of the
+      plants is measured daily over a period of four weeks. 
+  - answer: >
+      The independent variable is the temperature, while the dependent variable
+      is the rate of plant growth.
+    question: What are the independent and dependent variables in this experiment?
+    context: >
+      After four weeks of observation, the data shows that plants grown at
+      higher temperatures exhibited faster growth rates compared to those grown
+      at lower temperatures.
+  - answer: >
+      The conclusion is that there is a positive correlation between temperature
+      and the rate of plant growth.
+    question: What conclusion can be drawn from the data?
